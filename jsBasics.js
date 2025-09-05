@@ -1,6 +1,9 @@
 let a;
 console.log(a); // undefined
 
+let abc; // undefined
+console.log(typeof abc); // undefined
+
 const obj1 = {};
 console.log(obj1.name); // undefined
 

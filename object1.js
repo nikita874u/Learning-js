@@ -5,7 +5,7 @@
 const obj1 = {}; // empty object
 const obj2 = {
   name: "Nikita", // name = key, value = Nikita
-  class: "Btech CSE 3rd year",
+  class: "Btech CSE III year",
   nature: "Cute and beautiful",
 };
 

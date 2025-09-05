@@ -4,6 +4,7 @@ const animal = {
   name: "Sheru",
   haiKon: "Dog",
   kartaKyaHai: "Bhonkta hai",
+  year: 5,
   intro: function () {
     return this.name + " Ek " + this.haiKon + " hai. Wo " + this.kartaKyaHai;
   },
