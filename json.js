@@ -8,7 +8,7 @@
 const studInfo = `{
   "name": "Nikita",
   "class": "B.Tech CSE",
-  "roll": 1,
+  "roll no.": 1,
   "isIntelligent": true,
 }`;
 
