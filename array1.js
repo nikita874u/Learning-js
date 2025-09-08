@@ -1,5 +1,5 @@
 // Jiska size fix wo primitive warna non-primitive
-// Jo object na ho wo non-primitive
+// Jo object ho wo non-primitive
 let str1 = "Hello Nikki";
 let num1 = 1000;
 
