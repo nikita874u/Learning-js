@@ -32,3 +32,5 @@ console.log(val3);
   [ 'age', 20 ]
 ]
 */
+
+// NOTE: typeof null; // "object"

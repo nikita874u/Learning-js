@@ -6,6 +6,8 @@ console.log(txt); // [String: 'hello ji'] string class ka ek object create karta
 let text1 = "Hello";
 console.log(text1); // Hello
 
+// strings are immutable
+// means ek bar kisi value ko koi string value assign kar di jayento wo change nahi ho, agar hume chnage karna hai to use ek new variable me leke karna padega Ex- let str10 = text1.toLowerCase();
 let text2 = "Dear Nikita";
 console.log(text2); // Dear Nikita
 
