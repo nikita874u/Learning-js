@@ -24,3 +24,6 @@ command = git merge origin/child_branch
 
 // To check the commit change in code
 git show commit_id
+
+// To exit from commit menu
+press Q
