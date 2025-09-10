@@ -2,6 +2,7 @@
 let x = 5;
 let y = 10;
 console.log(`The sum of ${x} and ${y} is ${x + y}`); // The sum of 5 and 10 is 15
+console.log("The sum of " +x+ " and " +y+ " is " +(x+y));//another way to print
 
 const str = "Nikita";
 console.log(`Hello!! ${str}`);
@@ -19,3 +20,9 @@ console.log(var1 == var2); // value is compared Ans. True
 console.log(var1 === var2); // datatype and value both are checked Ans. False
 console.log(var3 == var4); // Ans.True
 console.log(var3 === var4); // Ans. False
+
+
+/*summary - 
+Value insertion in a string
+Difference between == and ===
+*/

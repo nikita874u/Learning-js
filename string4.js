@@ -1,5 +1,5 @@
 // toUpperCase and toLowerCase are methods
-// when we call methods we have to call them with ()
+// when we call methods we have to call them with () -> parentheses
 // when we call property we don't need to use ()
 
 let str1 = "Nikita";
@@ -25,3 +25,11 @@ console.log(var2); // 000055
 
 const var3 = var1.padEnd(6, "A");
 console.log(var3); // 55AAAA
+ 
+/*summary - 
+toLowerCase()
+toUpperCase()
+trim()
+padStart()
+padEnd()
+*/

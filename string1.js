@@ -31,3 +31,10 @@ console.log(text1, text2, text3); // Hello Dear Nikita Hello From Sagar
 
 // concat method se string apas me add ho jati hai
 console.log(text1.concat(text2, text3)); // HelloDear NikitaHello From Sagar
+
+/*
+summary -
+Declare and initialization
+Concatenation of string
+
+*/

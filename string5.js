@@ -25,3 +25,9 @@ console.log(str2.includes("and")); // false
 
 const str5 = `"Sagar and nikita" are nikita ke liye sirf 'best friends'`;
 console.log(str5);
+
+/*
+summary - 
+split()
+includes()
+*/ 

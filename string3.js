@@ -19,4 +19,11 @@ console.log(str1.substring(2, -5)); // He
 // Note: agar hum negative index dete hai substring me to wo first index value se aage ka sara udaa deta hai
 // substr method same slice ki tarah hota hai ye negative index bhi le leta hai bs diff itna hai ki jo isme dusra parameter hai wo batata hai ki string ko kitni length tak kaatna hai
 // text.substr(a,b)
-console.log(str1.substr(2, 5));
+console.log(str1.substr(2, 5));//llooo
+
+
+/*summary - 
+slice()
+substring()
+subsstr()
+*/

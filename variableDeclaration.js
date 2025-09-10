@@ -33,7 +33,7 @@ console.log("String: ", str3);
 {
   var str6 = "Hehehehe";
 }
-console.log("String6: ", str6); // ReferenceError: str5 is not defined
+console.log("String6: ", str6); // String6:  Hehehehe
 
 // 3. Redeclation of variable with let and const is impossible but with var it is possible
 
