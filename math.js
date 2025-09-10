@@ -36,3 +36,6 @@ console.log(three_digit_num);
 
 // 6-digit
 // 12-digit random number generate
+
+console.log(Math.floor(100000 + Math.random() * 900000));
+console.log(Math.floor(100000000000 + Math.random()* 900000000000))

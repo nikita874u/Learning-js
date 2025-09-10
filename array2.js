@@ -25,3 +25,15 @@ const str1 = array1.toString(); // mango,apple,banana
 // int[] a = {2,4,5,6};
 // Js me array ke andar mix type (different type) ke elements ho sakte hai.
 const array2 = ["sagar", 1, true];
+
+
+/*
+Note:
+If we want to convert an array into string
+const array1 = ["mango", "apple", "banana"];
+const str1 = array1.toString(); // mango,apple,banana
+
+split() method = kisi string ko todke ek array me convert kar deta hai
+const arr1 = str1.split(","); // (",") ye bata raha hai ki comma ke basis par todna hai
+console.log(arr1); // [ 'A', 'B', 'C', 'D', 'E' ]
+*/
