@@ -21,3 +21,6 @@ command = git log
 // If we want to combine the child branch into parents
 git checkout parent_branch
 command = git merge origin/child_branch
+
+// To check the commit change in code
+git show commit_id
