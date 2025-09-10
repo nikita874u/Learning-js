@@ -1,0 +1,19 @@
+// Basic commands
+To add changes = git add .
+To commit changes = git commit -m "message"
+To push:
+First time on a branch: git push -u origin branch_name
+Other than first time: git push
+To pull = git pull (for every time)
+
+// Why we need branch?
+We need branch so that different developer can write their code on their branches without affecting other's code
+
+// If we want to make a new branch
+command = git checkout -b branch_name
+
+// If we want to checkout on another branch which exists
+command = git checkout branch_name
+
+// If we wants to check the commit history on a branch
+command = git log
