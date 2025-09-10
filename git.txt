@@ -17,3 +17,7 @@ command = git checkout branch_name
 
 // If we wants to check the commit history on a branch
 command = git log
+
+// If we want to combine the child branch into parents
+git checkout child_branch
+command = git merge origin/parent_branch
