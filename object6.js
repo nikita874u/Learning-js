@@ -34,3 +34,14 @@ console.log(val3);
 */
 
 // NOTE: typeof null; // "object"
+
+// for... in loop ( helps us to iterate over each key-value in an object )
+const obj = {
+  name: "john",
+  age: 30,
+  mobile: "6398141162",
+};
+
+for (let i in obj) {
+  console.log(`${i} => ${obj[i]}`);
+}
